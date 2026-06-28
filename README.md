@@ -12,7 +12,7 @@ each project has it's own overview alongside technical details in its respective
 
 |   | project | tools | description |
 |----|----------------|---------------|---------------|
-| 🩺 | [`healthtech-marketing-channel-analysis`] | MySQL &middot; Tableau &middot; SQL | Marketing channel efficiency and growth lever analysis for a D2C healthtech subscription business |
+| 🩺 | [`healthtech-marketing-channel-analysis`](./healthtech-marketing-channel-analysis) | MySQL &middot; Tableau &middot; SQL | Marketing channel efficiency and growth lever analysis for a D2C healthtech subscription business |
 
 *more coming soon!*
 
