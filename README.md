@@ -4,7 +4,7 @@
 
 ## 👩🏾‍💻 &nbsp; overview
 
-hello, I'm naomi and this is where I share my personal projects with you and all my thought processes behind my each detail so you can follow along
+hello, I'm naomi and this is where I share my personal projects with you and my thought processes behind each step so you can follow along
 
 ## 📂 &nbsp; projects
 
