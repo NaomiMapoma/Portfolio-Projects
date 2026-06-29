@@ -60,7 +60,7 @@ Cohort table:
 
 ## 💡 &nbsp; Key Findings
 
-- Performance has plateaued due to creative fatigue on Meta, underinvestment in demand generation channels (TikTok, Creators, Affiliates) in comparison to Meta & Google. Lifecycle channels (CRM & RAF) are underleverage depsite strong ROAS and revenue growth
+- Performance has plateaued due to creative fatigue on Meta, underinvestment in demand generation channels (TikTok, Creators, Affiliates) in comparison to Meta & Google. Lifecycle channels (CRM & RAF) are underleveraged depsite strong ROAS and revenue growth
 - Programmatic consistently delivers low ROAS (<1) and the most inefficient CAC in comparison to all other channels
 - M3 retention is relatively consistent across channels, indicating retention is product-driven rather than channel-driven
 
