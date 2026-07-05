@@ -9,8 +9,8 @@ SQL and Tableau analysis investigating which marketing channels are driving grow
 - Which channels are driving acquisition growth?
 - Which channels are destroying efficiency on a CAC and ROAS basis?
 - Why has performance plateaued across the 12-week period?
-- What are the top three efficiency levers?
-- What are the top three scaling levers?
+- What are the top efficiency levers?
+- What are the top scaling levers?
 
 ## 🔢 &nbsp; Dataset
 
