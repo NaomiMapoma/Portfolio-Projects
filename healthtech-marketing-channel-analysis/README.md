@@ -55,14 +55,17 @@ Cohort table:
 ## 🛠️ &nbsp; Tools
 
 - MySQL
-- Tableau
+- Tableau Public
 - SQL
 
 ## 💡 &nbsp; Key Findings
 
-- Performance has plateaued due to creative fatigue on Meta, underinvestment in demand generation channels (TikTok, Creators, Affiliates) in comparison to Meta & Google. Lifecycle channels (CRM & RAF) are underleveraged depsite strong ROAS and revenue growth
-- Programmatic consistently delivers low ROAS (<1) and the most inefficient CAC in comparison to all other channels
-- M3 retention is relatively consistent across channels, indicating retention is product-driven rather than channel-driven
+- Performance has plateaued due to creative fatigue on Meta, underinvestment in demand generation channels (TikTok, Creators, Affiliates) in comparison to Meta & Google.
+- Programmatic is the only channel that has driven a low ROAS of 0.7 and the most inefficient CAC in comparison to all other channels
+- Affiliates is delivering the lowest approval rate at 63.5% indicating a quality issue regarding the traffic it is driving
+- M3 retention is relatively consistent across channels at ~40%, indicating retention is product-driven rather than channel-driven
+
+[`View interactive Tableau dashboard`](https://public.tableau.com/views/Tableau-HealthtechMarketingChannelAnalysis/HealthtechMarketingChannelPerformanceAnalysis?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## 📌 &nbsp; Methodology Notes
 
