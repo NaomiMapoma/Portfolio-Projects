@@ -18,4 +18,4 @@ each project has it's own overview alongside technical details in its respective
 
 ## 🔗 &nbsp; let's connect
 
-👩🏾‍💻 &nbsp; linkedin: (https://linkedin.com/in/naomi-mapoma)
+👩🏾‍💻 &nbsp; [`linkedin`](https://linkedin.com/in/naomi-mapoma)
