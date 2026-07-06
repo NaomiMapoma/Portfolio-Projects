@@ -18,7 +18,7 @@ The data comes from a single CSV file:
 
 | file | description |
 |---|---|
-|`car_insurance.csv`| customer profiles & claim history
+|[`car_insurance.csv`](https://github.com/NaomiMapoma/Portfolio-Projects/blob/main/modelling-car-insurance-claim-outcomes/data/car_insurance.csv)| customer profiles & claim history
 
 Dataset colums:
 
