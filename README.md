@@ -13,6 +13,7 @@ each project has it's own overview alongside technical details in its respective
 |   | project | tools | description |
 |----|----------------|---------------|---------------|
 | 🩺 | [`healthtech-marketing-channel-analysis`](./healthtech-marketing-channel-analysis) | MySQL &middot; Tableau &middot; SQL | Marketing channel efficiency and growth lever analysis for a D2C healthtech subscription business |
+| 🚘 | [`modelling-car-insurance-claim-outcomes`](./modelling-car-insurance-claim-outcomes) | Python (pandas, numpy, seaborn, matplotlib, statsmodels) &middot; Jupyter Notebook | Predictive model to identify the single most impactful feature for forecasting car insurance claims for an insurance company |
 
 *more coming soon!*
 
