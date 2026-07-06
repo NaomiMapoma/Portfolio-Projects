@@ -59,4 +59,4 @@ Dataset colums:
 - Among all individual features, <b>driving experience</b> was the strongest predictor of whether a customer would make a claim on their car insurance
 - Missing values in `credit score` and `annual_mileage` were inputed using the <b>mean</b> as the missing values data were <b>normally distributed</b>
 
-`View the notebook here in Jupyter`
+[`View the notebook here in Jupyter`](https://github.com/NaomiMapoma/Portfolio-Projects/blob/main/modelling-car-insurance-claim-outcomes/python/modelling_car_insurance_claim_outcomes.ipynb)
