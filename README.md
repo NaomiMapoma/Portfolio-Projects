@@ -14,6 +14,7 @@ each project has it's own overview alongside technical details in its respective
 |----|----------------|---------------|---------------|
 | 🩺 | [`healthtech-marketing-channel-analysis`](./healthtech-marketing-channel-analysis) | MySQL &middot; Tableau &middot; SQL | Marketing channel efficiency and growth lever analysis for a D2C healthtech subscription business |
 | 🚘 | [`modelling-car-insurance-claim-outcomes`](./modelling-car-insurance-claim-outcomes) | Python (pandas, numpy, seaborn, matplotlib, statsmodels) &middot; Jupyter Notebook | Predictive model to identify the single most impactful feature for forecasting car insurance claims for an insurance company |
+| 🤖 | [`ai-cv-tailoring-web-app`](./ai-cv-tailoring-web-app) | Next.js &middot; React &middot; TypeScript &middot; Tailwind CSS &middot; Anthropic API &middot; Claude Code | Local-only web app that tailors a CV to a job description with honest, evidence-backed rewrites, ATS keywords and a cover letter, without inventing experience |
 
 *more coming soon!*
 
