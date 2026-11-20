@@ -1,0 +1,36 @@
+@import "tailwindcss";
+
+:root {
+  --background: #ffffff;
+  --foreground: #222222;
+  --accent: #1d4ed8;
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-accent: var(--accent);
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+}
+
+body {
+  font-size: 1rem;
+  line-height: 1.6;
+}
+
+/* A clear keyboard focus ring on everything that can be focused (WCAG 2.4.7, 2.4.11). */
+:focus-visible {
+  outline: 3px solid var(--accent);
+  outline-offset: 2px;
+}
+
+/* Placeholder text must meet 4.5:1 too (the browser default is too pale). */
+::placeholder {
+  color: #595959;
+  opacity: 1;
+}
