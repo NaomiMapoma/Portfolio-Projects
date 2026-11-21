@@ -1,4 +1,4 @@
-# 🩺 &nbsp; Heathtech Marketing Channel Analysis
+# 🩺 &nbsp; Healthtech Marketing Channel Analysis
 
 ## 📚 &nbsp; Overview
 
