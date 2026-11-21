@@ -1,0 +1,32 @@
+# macOS
+.DS_Store
+
+# Secrets and credentials
+.env
+.env.*
+*.pem
+*.key
+
+# Data exports (never commit client or account data)
+client-data/
+exports/
+
+# Private working files
+notes/
+drafts/
+scratch/
+
+# Editors
+.vscode/
+.idea/
+
+# Packaged builds (attach these to a GitHub Release instead)
+*.zip
+
+# Python or notebook work
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+venv/
+.venv/
+node_modules/
