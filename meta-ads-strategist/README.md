@@ -96,9 +96,9 @@ cp -r portfolio-projects/meta-ads-strategist/skills/meta-ads-strategist ~/.claud
 
 - "My CPA has risen 30% week on week on a lead gen campaign. What should I check?"
 - "Help me structure a prospecting campaign for a new product with a daily budget of £500."
-- "One ad set has a higher CPA than the others. Should I pause it?"
+- "One ad has a higher CPA than the others. Should I pause it?"
 - "How many creative concepts should I run, and how should I test them?"
-- "Explain what Andromeda means for how I build creative."
+- "Explain what Meta's AI algorithm system means for how I build creative."
 - "Why do Meta and Google Analytics show different conversion numbers?"
 
 ## 🔄 Keeping It Current
@@ -111,7 +111,7 @@ cp -r portfolio-projects/meta-ads-strategist/skills/meta-ads-strategist ~/.claud
 ## ⚠️ Limitations and Disclaimer
 
 - This is an independent project. It isn't affiliated with, endorsed by or sponsored by Meta. Meta, Facebook and Instagram are trademarks of Meta Platforms, Inc.
-- Meta doesn't publish the full workings of its ranking systems. Explanations of mechanisms are informed interpretation unless a Meta source is cited.
+- Meta doesn't publish the full workings of its systems. Explanations of mechanisms are informed interpretation unless a Meta source is cited.
 - The skill can't see your ad account and relies on the data you give it.
 - It is not legal, financial or compliance advice. For regulated sectors it flags risks only and never approves creative. Always involve your compliance or legal team.
 - Meta's products, policies and rules change often. Verify anything important against Meta's current documentation.
