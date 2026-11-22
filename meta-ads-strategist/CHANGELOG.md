@@ -1,8 +1,8 @@
 # Changelog
 
-All notable changes to this skill are recorded here. Dates are in YYYY-MM-DD format.
+All notable changes to this skill are recorded here. Dates are in DD-MM-YYYY format.
 
-## [0.1.0] - [date]
+## [0.1.0] - 18-11-2026
 
 ### Added
 - Initial release of the Meta Ads Strategist skill.
@@ -11,7 +11,7 @@ All notable changes to this skill are recorded here. Dates are in YYYY-MM-DD for
 
 ## Template for future entries
 
-## [x.y.z] - YYYY-MM-DD
+## [x.y.z] - DD-MM-YYYY
 
 ### Added
 -
