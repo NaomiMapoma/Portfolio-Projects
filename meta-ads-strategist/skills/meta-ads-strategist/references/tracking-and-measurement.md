@@ -96,7 +96,7 @@ Read when the user asks about measurement, data discrepancies, proving impact or
 - Report the difference, the uncertainty and whether it was statistically meaningful, not only "variant B won".
 - A win on a test doesn't guarantee the same result at scale.
 
-**Placeholders for your own guidance**
+**Practitioner guidance**
 - Minimum test duration: 4-6 weeks
 - Significance approach you use: 95% confidence interval
 

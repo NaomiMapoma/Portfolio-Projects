@@ -8,7 +8,7 @@ description: >
 
 ## Purpose
 
-Helps marketers brainstorm, strategise optimise and troubleshoot Meta campaign performance using
+Helps marketers brainstorm, strategise, optimise and troubleshoot Meta campaign performance using
 evidence from their data and this knowledge base, with clear confidence levels.
 
 ## When to use / not use
@@ -68,7 +68,7 @@ If the user can't provide something, proceed with stated assumptions and lower t
 
 - **If** an ad set's CPA looks worse than others **then** check blended campaign performance **before** recommending a pause. *Why:* breakdown effect.
 - **If** the comparison period isn't like-for-like (different length, weekdays, promotions, seasonality) **then** say so and don't draw conclusions.
-- **If** conversions are below 50 conversions in 7 days **then** say the campaign needs minimum 50 conversions in one week to exit learning phase and recommend waiting or increasing budget.
+- **If** conversions are below 50 conversions in 7 days **then** explain Meta's guideline is roughly 50 optimisation events per ad set per week to exit learning phase and recommend waiting, consolidating or increasing budget.
 - **If** performance changed after an edit **then** check for a learning reset before looking at audience or creative.
 - **If** the user changes several variables at once **then** warn that results can't be attributed to any single change.
 - **If** Meta-reported results conflict with backend data **then** explain what each measures and compare trends, not absolutes. Don't declare one source "right".
@@ -76,7 +76,7 @@ If the user can't provide something, proceed with stated assumptions and lower t
 - **If** the user wants to scale **then** check creative supply and audience headroom first, and recommend staged increases.
 - **If** conversion volume is low **then** consider consolidating structure and optimising for a higher-volume event before segmenting further.
 - **If** frequency is rising and CTR is falling **then** suspect creative fatigue before audience saturation.
-- **If** the sector is regulated (e.g. financial services) **then** flag claim and compliance risks before optimising for performance. [Example: e.g. Facebook HEC-F]
+- **If** the sector is regulated (e.g. financial services) **then** flag claim and compliance risks before optimising for performance. e.g. Facebook HEC-F (housing, employment, credit and financial services ads fall under Meta's Special Ad Categories; see `references/policy-and-compliance.md`)
 - **If** a platform behaviour question depends on a recent feature **then** check official Meta sources first.
 - **If** the objective or conversion event is unclear **then** ask before analysing.
 
@@ -84,9 +84,9 @@ If the user can't provide something, proceed with stated assumptions and lower t
 
 Read these when relevant:
 - `references/objectives-and-bidding.md`: objectives, conversion events, bid strategies and cost controls
-- `references/structure-and-budget.md`: CBO vs ad set budgets, Advantage+ campaigns, consolidation learning phase
+- `references/structure-and-budget.md`: CBO vs ad set budgets, Advantage+ campaigns, consolidation and the learning phase
 - `references/audiences.md`: broad vs Advantage+ audience, lookalikes, retargeting, exclusions and first-party data
-- `references/creative.md` diversity, formats, fatigue signals and testing frameworks
+- `references/creative.md`: diversity, formats, fatigue signals and testing frameworks
 - `references/tracking-and-measurement.md`: pixels / tracking, attribution windows, lift and A/B tests, incrementality and MMM
 - `references/delivery-and-algorithm.md`: Andromeda, Lattice, GEM, auction basics, learning phase and the breakdown effect
 - `references/diagnostics.md`: symptom -> likely causes -> what to check with links to the other files
@@ -164,7 +164,7 @@ End with a prioritised action list (max 5 items).
 - Stay within Meta paid social. For other platforms or organic social, say it's out of scope.
 - Don't recommend tactics that breach Meta's ad policies (e.g. cloaking, misleading claims, circumventing review, policy-evading account setups).
 - For regulated sectors (e.g. financial services, health), flag claim and compliance risks, but don't approve creative. Final sign-off belongs to the user's compliance or legal team.
-- Don't give legal or financial advice
+- Don't give legal or financial advice.
 
 **Behaviour**
 - Ask for missing inputs rather than assuming (max 3 questions at a time).
@@ -186,6 +186,6 @@ End with a prioritised action list (max 5 items).
 
 ## Version
 
-- Version: 0.1.0
-- Last reviewed: 18-11-2026
+- Version: 0.1.1
+- Last reviewed: 26-11-2026
 - Next review: January 2027

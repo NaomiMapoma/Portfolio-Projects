@@ -9,7 +9,7 @@ It covers campaign structure, budgets, bidding, audiences, creative, measurement
 ## 💡 Why I Built This
 
 - Meta changes fast. Delivery systems, audience controls and creative guidance have all shifted recently, and with much of the advice online it can be hard to decipher what is true and what actually works.
-- I've spent 8+ years in performance marketing and wanted to consolidate the all the knowledge I've built and learnings I've gained over the years in one place from someone who has actually done the work.
+- I've spent 8+ years in performance marketing and wanted to consolidate all the knowledge I've built and learnings I've gained over the years in one place from someone who has actually done the work.
 - Building it was also a way to turn my paid social and measurement experience into something reusable, and to learn how to build AI workflows and skills.
 
 ## 📝 Questions It Helps Answer
@@ -66,7 +66,7 @@ The skill is plain Markdown. It contains no scripts or code.
 
 ### Claude.ai (web and desktop)
 
-1. Download `meta-ads-strategist.zip` from the [Releases page](https://github.com/NaomiMapoma/portfolio-projects/releases) (look for the `meta-ads-strategist-v…` tag)..
+1. Download `meta-ads-strategist.zip` from the [Releases page](https://github.com/NaomiMapoma/portfolio-projects/releases) (look for the `meta-ads-strategist-v…` tag).
 2. Open **Settings** and go to **Capabilities** (or **Customize** then **Skills**, depending on your layout).
 3. Make sure code execution and file creation is switched on.
 4. Choose **Upload a skill** and select the zip.
@@ -79,13 +79,13 @@ Skills are available on certain plans. Check Anthropic's current documentation f
 1. Clone this repository:
 
 ```
-git clone https://github.com/NaomiMapoma/portfolio-projects.git 
+git clone https://github.com/NaomiMapoma/portfolio-projects.git
 ```
 
 2. Copy the skill folder into your personal skills folder:
 
 ```
-cp -r portfolio-projects/meta-ads-strategist/skills/meta-ads-strategist ~/.claude/skills/ 
+cp -r portfolio-projects/meta-ads-strategist/skills/meta-ads-strategist ~/.claude/skills/
 ```
 
 3. Start Claude Code. The skill loads automatically when relevant.
@@ -96,14 +96,14 @@ cp -r portfolio-projects/meta-ads-strategist/skills/meta-ads-strategist ~/.claud
 
 - "My CPA has risen 30% week on week on a lead gen campaign. What should I check?"
 - "Help me structure a prospecting campaign for a new product with a daily budget of £500."
-- "One ad has a higher CPA than the others. Should I pause it?"
+- "One ad set has a higher CPA than the others. Should I pause it?"
 - "How many creative concepts should I run, and how should I test them?"
-- "Explain what Meta's AI algorithm system means for how I build creative."
+- "Explain what Andromeda means for how I build creative."
 - "Why do Meta and Google Analytics show different conversion numbers?"
 
 ## 🔄 Keeping It Current
 
-- Each reference file carries a **last verified** date and a list of items to verify.
+- Each reference file carries a **last verified** date and most link to their sources.
 - Anything dated or volatile (feature names, attribution windows, policy details) is separated from stable principles.
 - The skill is told to check official sources when a file is stale or a question concerns a recent change.
 - Changes are recorded in [CHANGELOG.md](CHANGELOG.md).
@@ -111,7 +111,7 @@ cp -r portfolio-projects/meta-ads-strategist/skills/meta-ads-strategist ~/.claud
 ## ⚠️ Limitations and Disclaimer
 
 - This is an independent project. It isn't affiliated with, endorsed by or sponsored by Meta. Meta, Facebook and Instagram are trademarks of Meta Platforms, Inc.
-- Meta doesn't publish the full workings of its systems. Explanations of mechanisms are informed interpretation unless a Meta source is cited.
+- Meta doesn't publish the full workings of its ranking systems. Explanations of mechanisms are informed interpretation unless a Meta source is cited.
 - The skill can't see your ad account and relies on the data you give it.
 - It is not legal, financial or compliance advice. For regulated sectors it flags risks only and never approves creative. Always involve your compliance or legal team.
 - Meta's products, policies and rules change often. Verify anything important against Meta's current documentation.

@@ -103,7 +103,7 @@ Read when the user asks about structure, budget allocation or scaling
 - **Scale creative with budget.** More spend needs more distinct concepts, or frequency rises and efficiency falls. See `creative.md`.
 - **Expect marginal CPA to exceed average CPA as spend grows.** Judge scaling decisions on marginal efficiency and incrementality, not average CPA alone.
 - **Choose the scaling route deliberately:** increase the budget on the winning campaign, duplicate winning ads into a scaling campaign, or add new concepts. Note that if you duplicate a winning ad into a new campaign, you are resetting learnings and it may not perform the same in a new environment set up
-- **Know when to hold.** Signals to pause scaling: [Example: e.g. rising frequency with falling CTR, unstable delivery after a change].
+- **Know when to hold.** Signals to pause scaling: rising frequency with falling CTR or unstable delivery after a change.
 - **Protect the baseline.** Keep a stable core campaign while you test changes elsewhere.
 
 ## Decision guidance
